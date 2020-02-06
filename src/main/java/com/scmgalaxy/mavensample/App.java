@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello my World RefX! MAH-2--d" );
+        System.out.println( "Hello my my World RefX! MAH-2--d" );
     }
 }
